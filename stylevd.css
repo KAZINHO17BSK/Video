@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color:#949090;
+}
+header {
+    text-align: center;
+    padding: 15px;
+    background-color: #807878;
+}
+video {
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 33%;
+    border-radius: 30px;
+}
+.vdi {
+    background-color: #38753a;
+    color: white;
+    cursor: pointer;
+    border-radius: 40px;
+    padding: 13px 30px;
+    font-size: 20px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+    align-self: center;
+}
+button {
+    background-color:#949090 ;
+    border: none;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #807878;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
